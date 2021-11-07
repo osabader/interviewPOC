@@ -1,0 +1,21 @@
+{
+  "name": "interviewprojects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "got": "^11.8.2",
+    "morgan": "^1.10.0",
+    "node-fetch": "^3.0.0",
+    "request-promise": "^4.2.6"
+  }
+}
